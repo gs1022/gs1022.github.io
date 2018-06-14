@@ -6,7 +6,7 @@
 {
 	height:50px;
 	width:100%;
-	position:fixed;	
+	position:fixed;
         background-color:#999;
 }
 h1
@@ -23,14 +23,14 @@ li
     list-style-type:none;
 	float:left;
 	color:#000;
-    margin:10px;	
+    margin:10px;
 }
 .start
 {
 height:700px;
 width:100%;
 background-image:url(../new%20pictures/640x360%20(6).jpg);
-background-size:100% 100%;	
+background-size:100% 100%;
 }
 ul .start1
 {
@@ -40,19 +40,19 @@ ul .start1
 }
 .w
 {
-	height:70px;
+	height:45px;
 	width:250px;
 background-image:url(../New%20folder/wattt.jpg);
 background-size:100% 100%;
-	
+
 }
-	
+
 h4
 {
 	font-size:46px;
 	color:#000;
 	margin-top:230px;
-	
+
 }
 h6
 {
@@ -64,7 +64,7 @@ h6
 .team
 {
 height:700px;
-width:100%;	
+width:100%;
 background-color:#fff;
 }
 h2
@@ -98,13 +98,13 @@ h5
 .mission
 {
 height:700px;
-width:100%;	
+width:100%;
 background-color:#FFF;
 }
 .about
 {
 height:700px;
-width:100%;	
+width:100%;
 background-color:#FFF;
 }
 .ab
@@ -121,11 +121,11 @@ p
 .carrier
 {
 height:700px;
-width:100%;	
+width:100%;
 background-color:#FFF;
 }
 .contact
 {
 height:700px;
-width:100%;	
+width:100%;
 }
